@@ -1,4 +1,6 @@
-public class Q5 {
+package Tema1;
+
+public class q5 {
     public static void main(String[] args) {
         myVariables();
     }

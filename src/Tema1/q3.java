@@ -1,4 +1,6 @@
-public class Q3 {
+package Tema1;
+
+public class q3 {
     public static void main(String[] args) {
         int varstaAna = 24;
 

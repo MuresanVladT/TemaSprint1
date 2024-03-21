@@ -1,6 +1,8 @@
+package Tema1;
+
 import java.util.Scanner;
 
-public class Q6 {
+public class q6 {
     public static void main(String[] args) {
         citesteNumere();
     }
