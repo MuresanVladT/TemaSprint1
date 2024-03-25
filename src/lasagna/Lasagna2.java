@@ -1,7 +1,7 @@
 package lasagna;
 
 public class Lasagna2 {
-    private static final int MINUTE_AST_EXPECTATE = 40;
+    public static final int MINUTE_AST_EXPECTATE = 40;
 
     public int minuteRamanenteInCuptor(int minuteActuale) {
         int minuteRamase = MINUTE_AST_EXPECTATE - minuteActuale;
